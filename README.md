@@ -1,2 +1,3 @@
 # basicJavascript
-Just some basic JavaScript to learn
+
+Learning from javascript.info
